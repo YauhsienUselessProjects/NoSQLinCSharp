@@ -1,0 +1,8 @@
+D:\work\useless_projects\NoSQLinCSharp\ConsoleClient\bin\Debug\ConsoleClient.exe.config
+D:\work\useless_projects\NoSQLinCSharp\ConsoleClient\bin\Debug\ConsoleClient.exe
+D:\work\useless_projects\NoSQLinCSharp\ConsoleClient\bin\Debug\ConsoleClient.pdb
+D:\work\useless_projects\NoSQLinCSharp\ConsoleClient\bin\Debug\NoSQLinCSharp.dll
+D:\work\useless_projects\NoSQLinCSharp\ConsoleClient\bin\Debug\NoSQLinCSharp.pdb
+D:\work\useless_projects\NoSQLinCSharp\ConsoleClient\obj\Debug\ConsoleClient.csprojResolveAssemblyReference.cache
+D:\work\useless_projects\NoSQLinCSharp\ConsoleClient\obj\Debug\ConsoleClient.exe
+D:\work\useless_projects\NoSQLinCSharp\ConsoleClient\obj\Debug\ConsoleClient.pdb
